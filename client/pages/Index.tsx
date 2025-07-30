@@ -15,7 +15,7 @@ export default function Index() {
   }, []);
 
   const techStack = [
-    "python", "NumPy","Pandas","Matplotlib","C", "Git","Scikit-learn","TensorFlow","PyTorch","Hugging Face Transformers","VS Code"
+    "python", "NumPy","Pandas","Matplotlib","C", "Git","Scikit-learn","TensorFlow","PyTorch","VS Code"
   ];
 
   return (
@@ -38,7 +38,7 @@ export default function Index() {
                 <Sparkles className="w-5 h-5 text-white" />
               </div>
               <div className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent animate-fade-in">
-                Utsab Ghoshal
+                Pritam Bhuin
               </div>
             </div>
             
@@ -99,14 +99,13 @@ export default function Index() {
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                   Hi, I'm
                   <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent block animate-glow">
-                    Utsab Ghoshal
+                    Pritam Bhuin
                   </span>
                 </h1>
                 <div className="flex items-center gap-3 mb-4">
                   <Coffee className="w-6 h-6 text-amber-600" />
                   <p className="text-lg sm:text-xl text-gray-600 leading-relaxed">
-                    Pre-final year Computer Science student at <span className="font-semibold text-blue-600">JIS University</span>, passionate about creating 
-                    innovative web solutions using modern technologies like MERN stack, TypeScript, and more.
+                    Pre-final year Computer Science student at <span className="font-semibold text-blue-600">JIS University</span>, Passionate about building innovative AI-powered solutions with a strong focus on Python and Generative AI. Skilled in developing intelligent applications, data handling, and leveraging tools like Hugging Face and Scikit-learn to create impactful projects.
                   </p>
                 </div>
               </div>
@@ -198,9 +197,7 @@ export default function Index() {
             </div>
             <div className="w-24 h-1 bg-gradient-to-r from-blue-600 to-indigo-600 mx-auto mb-6 rounded-full"></div>
             <p className="text-lg sm:text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-              Every line of code is a step forward in my journey to becoming a skilled developer. 
-              Currently pursuing Computer Science at JIS University, I'm passionate about building 
-              meaningful solutions and contributing to the tech community.
+              Every line of code brings me closer to my goal of becoming a skilled AI developer. Currently pursuing Computer Science with a specialization in AI & ML at JIS University, I’m passionate about building innovative AI-powered solutions and exploring Generative AI to solve real-world problems.
             </p>
           </div>
 
@@ -214,7 +211,7 @@ export default function Index() {
               </CardHeader>
               <CardContent className="text-center">
                 <CardDescription className="text-base text-gray-700">
-                  Constantly expanding my knowledge in web development, exploring new technologies, 
+                  Constantly expanding my knowledge in Generative AI, exploring new technologies, 
                   and building exciting projects that challenge my skills and creativity.
                 </CardDescription>
               </CardContent>
@@ -244,8 +241,7 @@ export default function Index() {
               </CardHeader>
               <CardContent className="text-center">
                 <CardDescription className="text-base text-gray-700">
-                  Passionate about creating solutions that make a difference. From web applications 
-                  to system-level programming, always looking for ways to innovate and improve.
+                  Passionate about creating AI-driven solutions that make a real impact. From Python-based applications to Generative AI projects, I’m always exploring ways to innovate and improve.
                 </CardDescription>
               </CardContent>
             </Card>
@@ -277,8 +273,7 @@ export default function Index() {
               </CardHeader>
               <CardContent className="text-center space-y-6 relative z-10">
                 <CardDescription className="text-lg text-gray-700 leading-relaxed">
-                  🚀 Currently focused on mastering the <strong>MERN stack</strong> and <strong>TypeScript</strong> 
-                  to build scalable, modern web applications that solve real-world problems.
+                  🚀 Currently exploring <strong>Generative AI</strong> and <strong>Python</strong> to create impactful, AI-powered applications and practical tech solution
                 </CardDescription>
                 
                 <CardDescription className="text-lg text-gray-700 leading-relaxed">
@@ -287,13 +282,12 @@ export default function Index() {
                 </CardDescription>
                 
                 <CardDescription className="text-lg text-gray-700 leading-relaxed">
-                  🎯 My goal is to become a <strong>full-stack developer</strong> who can bridge the gap between 
-                  innovative ideas and practical, user-friendly solutions.
+                  🎯 My goal is to become a <strong>Generative AI Engineer</strong>, building intelligent solutions that bridge the gap between innovative ideas and impactful real-world applications.
                 </CardDescription>
 
                 <div className="flex flex-wrap justify-center gap-3 pt-4">
                   <Badge className="bg-gradient-to-r from-blue-500 to-indigo-600 text-white hover:scale-110 transition-transform duration-300 px-4 py-2">
-                    Web Development
+                    Generative AI
                   </Badge>
                   <Badge className="bg-gradient-to-r from-green-500 to-emerald-600 text-white hover:scale-110 transition-transform duration-300 px-4 py-2">
                     Open Source
