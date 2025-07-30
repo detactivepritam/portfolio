@@ -15,8 +15,7 @@ export default function Index() {
   }, []);
 
   const techStack = [
-    "HTML", "CSS", "JavaScript", "React", "Node.js", "Express", 
-    "MongoDB", "TypeScript", "C", "C++", "Git", "REST APIs"
+    "python", "NumPy","Pandas","Matplotlib","C", "Git","Scikit-learn","TensorFlow","PyTorch","Hugging Face Transformers","VS Code"
   ];
 
   return (
