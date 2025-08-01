@@ -926,7 +926,7 @@ export default function Index() {
                   variant="ghost" 
                   size="icon" 
                   className="text-gray-400 hover:text-white hover:scale-110 transition-all duration-300 hover:bg-blue-600"
-                  onClick={() => window.open('https://www.linkedin.com/in/utsab-ghoshal-18a430287/', '_blank')}
+                  onClick={() => window.open('https://www.linkedin.com/in/pritam-bhuin-35a72333b/', '_blank')}
                 >
                   <Linkedin className="w-5 h-5" />
                 </Button>
@@ -934,7 +934,7 @@ export default function Index() {
                   variant="ghost" 
                   size="icon" 
                   className="text-gray-400 hover:text-white hover:scale-110 transition-all duration-300 hover:bg-blue-600"
-                  onClick={() => window.location.href = 'mailto:utsab.ghoshal04@gmail.com'}
+                  onClick={() => window.location.href = 'mailto:detactivepritam@gmail.com'}
                 >
                   <Mail className="w-5 h-5" />
                 </Button>
