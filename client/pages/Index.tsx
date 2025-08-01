@@ -918,7 +918,7 @@ export default function Index() {
                   variant="ghost" 
                   size="icon" 
                   className="text-gray-400 hover:text-white hover:scale-110 transition-all duration-300 hover:bg-blue-600"
-                  onClick={() => window.open('https://github.com/UtsabGhoshal', '_blank')}
+                  onClick={() => window.open('https://github.com/detactivepritam', '_blank')}
                 >
                   <Github className="w-5 h-5" />
                 </Button>
